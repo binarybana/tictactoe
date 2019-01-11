@@ -1,0 +1,9 @@
+[package]
+name = "tictactoe"
+version = "0.1.0"
+authors = ["Jason Knight <Jason@JasonKnight.us>"]
+edition = "2018"
+
+[dependencies]
+crossterm = "0.5.1"
+derive_more = "0.13.0"
