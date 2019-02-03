@@ -1,5 +1,5 @@
+use crossterm::input;
 use crossterm::terminal::{terminal, ClearType};
-use crossterm::{cursor, input};
 
 use derive_more::Display;
 
